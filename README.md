@@ -1,5 +1,5 @@
 ### Olá! eu sou Jocyannno Vittor <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230013F7&lines=Bem+vindo+ao+meu+Perfil+do+Github)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230013F7&lines=Bem+vindo+ao+meu+Perfil+do+Github)
 
 - ⚡ Estudando React-Native.
 - 👯 Cursando 5º Período de Sistemas de Informação na UPE (Universidade de Pernambuco)
