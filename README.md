@@ -22,11 +22,12 @@
 
 
 <div align="right">
-<img width="340px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-<img width="300px" src="https://pa1.narvii.com/6525/acd9ac96039aec18358a75f69397052c71978bd5_hq.gif">
+  <img width="340px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+  <img width="300px" src="https://pa1.narvii.com/6525/acd9ac96039aec18358a75f69397052c71978bd5_hq.gif">
+  ![Snake animation](https://github.com/jocyanno/jocyanno/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-![Snake animation](https://github.com/jocyanno/jocyanno/blob/output/github-contribution-grid-snake.svg)
+
     
 
 
