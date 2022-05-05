@@ -26,7 +26,7 @@
 <img width="300px" src="https://pa1.narvii.com/6525/acd9ac96039aec18358a75f69397052c71978bd5_hq.gif">
 </div>
   
-![Snake animation](https://github.com/jocyanno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jocyanno/jocyanno/blob/output/github-contribution-grid-snake.svg)
     
 
 
