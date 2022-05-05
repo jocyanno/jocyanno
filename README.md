@@ -11,15 +11,16 @@
 <div align="left">
 <h3>Programming Languages<h3/>
 <img alt="HTML5" title="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "><img alt="CSS3" title="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"><img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"><img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" >
 </div>
   
 <div align="left">
   <a href="https://github.com/jocyanno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocyanno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocyanno&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocyanno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocyanno&layout=compact&langs_count=7&theme=dracula">
 </div>
-
+ 
+  ##
 
 <div align="right">
   <img width="340px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
