@@ -21,12 +21,6 @@
 </div>
  
   ##
-
-<div align="right">
-  <img width="340px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-  <img width="300px" src="https://pa1.narvii.com/6525/acd9ac96039aec18358a75f69397052c71978bd5_hq.gif">
- 
-</div>
     
 
 
