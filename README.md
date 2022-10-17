@@ -12,7 +12,7 @@
   <h3>Programming Languages<h3/>
   <img alt="HTML5" title="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "><img alt="CSS3" title="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"><img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" >
-  <img alt="React" title="React" width "40px" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png">
+  <img alt="React" title="React" width="40px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg">
   <img alt="NodeJS" title="NodeJS" width="40px" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png">
 </div>
   
