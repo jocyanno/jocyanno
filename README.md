@@ -1,16 +1,15 @@
 <h1 align="left"> Olá! Eu sou Jocyanno Vittor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 Sobre mim
-⚡ Desenvolvedor Pleno Node.js, com foco em back-end, APIs REST e automações.
-🎓 Bacharel em Sistemas de Informação pela UPE (Universidade de Pernambuco).
-🌱 Estudando sobre Microsserviço.
-💬 Fale comigo sobre Node.js, TypeScript, integrações e automação de processos.
-📫 E-mail: jocyannovittor@hotmail.com
 </br>
+⚡ Desenvolvedor Pleno Node.js, com foco em back-end, APIs REST e automações.</br>
+🎓 Bacharel em Sistemas de Informação pela UPE (Universidade de Pernambuco).</br>
+🌱 Estudando sobre Microsserviço.</br>
+💬 Fale comigo sobre Node.js, TypeScript, integrações e automação de processos.</br>
+📫 E-mail: jocyannovittor@hotmail.com
+</br></br>
 Onde me encontrar:
 <p align="left"> <a href="https://www.linkedin.com/in/jocyanno-vittor-6a3a76212/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://api.whatsapp.com/send?phone=5581989035345" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> </a> <a href="mailto:jocyannovittor@hotmail.com"> <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
-Tecnologias
-
-Linguagens
+Tecnologias & Linguagens
 
 <p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </p>
 
