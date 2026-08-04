@@ -2,8 +2,7 @@
 Sobre mim
 ⚡ Desenvolvedor Pleno Node.js, com foco em back-end, APIs REST e automações.
 🎓 Bacharel em Sistemas de Informação pela UPE (Universidade de Pernambuco).
-🤖 Atualmente construindo o Barberius 4.0 — bot de agendamento via WhatsApp (Node.js + Puppeteer + Supabase).
-🌱 Estudando arquitetura de software, testes automatizados e boas práticas de deploy em VPS.
+🌱 Estudando sobre Micro-serviços.
 💬 Fale comigo sobre Node.js, TypeScript, integrações e automação de processos.
 📫 E-mail: jocyannovittor@hotmail.com
 </br>
