@@ -2,7 +2,7 @@
 Sobre mim
 ⚡ Desenvolvedor Pleno Node.js, com foco em back-end, APIs REST e automações.
 🎓 Bacharel em Sistemas de Informação pela UPE (Universidade de Pernambuco).
-🌱 Estudando sobre Micro-serviços.
+🌱 Estudando sobre Microsserviço.
 💬 Fale comigo sobre Node.js, TypeScript, integrações e automação de processos.
 📫 E-mail: jocyannovittor@hotmail.com
 </br>
