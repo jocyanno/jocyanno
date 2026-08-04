@@ -14,14 +14,7 @@
   <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"><img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" >
   <img alt="React" title="React" width="40px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg">
   <img alt="NodeJS" title="NodeJS" width="40px" src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png">
-</div>
-  
-<div align="left">
-  <a href="https://github.com/jocyanno"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocyanno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocyanno&layout=compact&langs_count=7&theme=dracula">
-</div>
- 
+</div> 
   ##
     
 
