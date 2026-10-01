@@ -1,7 +1,7 @@
 <h1 align="left"> Olá! Eu sou Jocyanno Vittor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 Sobre mim
 </br>
-⚡ Desenvolvedor Pleno Node.js, com foco em back-end, APIs REST e automações.</br>
+⚡ Desenvolvedor Sênior Node.js, com foco em back-end, APIs REST e automações.</br>
 🎓 Bacharel em Sistemas de Informação pela UPE (Universidade de Pernambuco).</br>
 🌱 Estudando sobre Microsserviço.</br>
 💬 Fale comigo sobre Node.js, TypeScript, integrações e automação de processos.</br>
